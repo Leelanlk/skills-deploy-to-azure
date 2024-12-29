@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: Leela-azure-ttt
-  AZURE_WEBAPP_NAME: Leela-ttt-app
+  DOCKER_IMAGE_NAME: leelanlk-azure-ttt
+  AZURE_WEBAPP_NAME: leelanlk-ttt-app
   ###############################################
 
 jobs:
